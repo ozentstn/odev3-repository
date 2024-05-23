@@ -1,0 +1,62 @@
+    <employees>
+        <employee1>
+            <firstName>Ozen</firstName>
+            <lastName>Tastan</lastName>
+            <gender>female</gender>
+            <dateOfBirth>1997-01-20</dateOfBirth>
+            <address>
+                <city>Ankara</city>
+                <street>Bagcilar St</street>
+                <apt>Pamuk Vadi</apt>
+                <aptNumber>7</aptNumber>
+                <zipcode>06210</zipcode>
+            </address>
+            <phone>5453252910</phone>
+            <email>ozentastan1@gmail.com</email>
+            <job>Yazılım Test Muhendisi</job>
+            <project>Gelir Idaresi Baskanligi - MEVA ve OKC Projeleri</project>
+            <dateOfJob>2022-10-17</dateOfJob>
+            <roller>
+                <test>true</test>
+                <backendDev>true</backendDev>
+                <frontendDev>true</frontendDev>
+                <rpaDev>true</rpaDev>
+            </roller>
+            <education>
+                <university>Gazi Universitesi</university>
+                <department>İstatistik</department>
+                <mscMi>true</mscMi>
+                <graduateDegree>3.89/4</graduateDegree>
+            </education>
+        </employee1>
+        <employee2>
+            <firstName>X</firstName>
+            <lastName>Y</lastName>
+            <gender>female</gender>
+            <dateOfBirth>1995-01-22</dateOfBirth>
+            <address>
+                <city>Ankara</city>
+                <street>Sivas St</street>
+                <apt>Park Aura</apt>
+                <aptNumber>11</aptNumber>
+                <zipcode>06210</zipcode>
+            </address>
+            <phone>5465894251</phone>
+            <email>xy@gmail.com</email>
+            <job>yazılım geliştirici</job>
+            <project>Gelir Idaresi Baskanligi - MEVA ve OKC Projeleri</project>
+            <dateOfJob>2020-10-20</dateOfJob>
+            <roller>
+                <test>false</test>
+                <backendDev>true</backendDev>
+                <frontendDev>true</frontendDev>
+                <rpaDev>false</rpaDev>
+            </roller>
+            <education>
+                <university>Gazi Universitesi</university>
+                <department>Bilgisayar Muhendisligi</department>
+                <mscMi>false</mscMi>
+                <graduateDegree>3.03/4</graduateDegree>
+            </education>
+        </employee2>
+    </employees>

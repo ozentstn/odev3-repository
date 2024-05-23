@@ -1,0 +1,15 @@
+--Employees--
+First name : string
+Last name : string
+Gender: string
+DateOfBrith: date
+Adress: string/int
+Phone: int
+Email: string
+Job: string
+Project: string
+DateOfJob: date
+Roller: bool
+Education: string/bool
+
+

@@ -1,0 +1,64 @@
+{
+  "employees": {
+    "employee1": {
+      "firstName": "Ozen",
+      "lastName": "Tastan",
+      "gender": "female",
+      "dateOfBirth": "1997-01-20",
+      "address": {
+        "city": "Ankara",
+        "street": "Bagcilar St",
+        "apt": "Pamuk Vadi",
+        "aptNumber": 7,
+        "zipcode": "06210"
+      },
+      "phone": 5453252910,
+      "email": "ozentastan1@gmail.com",
+      "job": "yazılım Test Muhendisi",
+      "project": "Gelir Idaresi Baskanligi - MEVA ve OKC Projeleri",
+      "dateOfJob": "2022-10-17",
+      "roller": {
+        "test": true,
+        "backendDev": true,
+        "frontendDev": true,
+        "rpaDev": true
+      },
+      "education": {
+        "university": "Gazi Universitesi",
+        "department": "İstatistik",
+        "mscMi": true,
+        "graduateDegree": "3.89/4"
+      }
+    },
+    "employee2": {
+      "firstName": "X",
+      "lastName": "Y",
+      "gender": "female",
+      "dateOfBirth": "1995-01-22",
+      "address": {
+        "city": "Ankara",
+        "street": "Sivas St",
+        "apt": "Park Aura",
+        "aptNumber": 11,
+        "zipcode": "06210"
+      },
+      "phone": 5465894251,
+      "email": "xy@gmail.com",
+      "job": "yazılım geliştirici",
+      "project": "Gelir Idaresi Baskanligi - MEVA ve OKC Projeleri",
+      "dateOfJob": "2020-10-20",
+      "roller": {
+        "test": false,
+        "backendDev": true,
+        "frontendDev": true,
+        "rpaDev": false
+      },
+      "education": {
+        "university": "Gazi Universitesi",
+        "department": "Bilgisayar Muhendisligi",
+        "mscMi": false,
+        "graduateDegree": "3.03/4"
+      }
+    }
+  }
+}
